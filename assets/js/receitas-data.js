@@ -1,0 +1,545 @@
+// ARQUIVO GERADO — edite data/receitas.json e rode: node tools/build-data.js
+window.RECEITAS = {
+  "fonte": "Revista Puro Sabor — caderno de receitas da família",
+  "secao": "Bolos simples de liquidificador",
+  "receitas": [
+    {
+      "id": "bolo-de-beterraba",
+      "nome": "Bolo de Beterraba",
+      "tempo": "1h",
+      "porcoes": 20,
+      "pagina": 4,
+      "ingredientes": [
+        "1 xícara (chá) de suco de laranja",
+        "4 xícaras (chá) de beterraba picada",
+        "3 ovos",
+        "2 xícaras (chá) de açúcar",
+        "3/4 de xícara (chá) de óleo",
+        "3 xícaras (chá) de farinha de trigo",
+        "1 colher (chá) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "cobertura": [
+        "1 colher (sopa) de margarina",
+        "3 colheres (sopa) de açúcar",
+        "1 xícara (chá) de leite",
+        "3 colheres (sopa) de achocolatado em pó"
+      ],
+      "preparo": "No liquidificador, bata o suco de laranja e a beterraba até triturar a beterraba. Despeje em uma vasilha e reserve. Bata no liquidificador os ovos, o açúcar e o óleo. Acrescente aos poucos a beterraba batida com o suco de laranja, batendo. Adicione a farinha de trigo, o fermento e bata até ficar homogêneo. Despeje em uma fôrma de buraco no meio de 30cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 40 minutos ou até que ao enfiar um palito, ele saia limpo. Para a cobertura, em uma panela, coloque a margarina, o açúcar, o leite, o achocolatado e cozinhe até engrossar. Desenforme o bolo e espalhe a cobertura. Sirva."
+    },
+    {
+      "id": "bolo-ao-rum",
+      "nome": "Bolo ao Rum",
+      "tempo": "1h",
+      "porcoes": 10,
+      "pagina": 4,
+      "ingredientes": [
+        "3 ovos",
+        "1 xícara (chá) de açúcar",
+        "2 colheres (sopa) margarina",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 vidro de leite de coco (200ml)",
+        "1 colher (sopa) de rum",
+        "1 colher (sopa) rasa de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "calda": [
+        "1/2 xícara (chá) de açúcar",
+        "1 vidro de leite de coco (200ml)"
+      ],
+      "preparo": "Bata no liquidificador os ovos, o açúcar, a margarina, a farinha, o leite de coco e o rum até obter um creme homogêneo. Adicione o fermento e misture com uma colher. Despeje em uma fôrma de buraco no meio de 22cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 35 minutos ou até que ao enfiar um palito, ele saia limpo. Para a calda, leve ao fogo o açúcar com o leite de coco e cozinhe por 15 minutos em fogo médio ou até reduzir pela metade e formar uma calda rala. Desenforme o bolo depois de frio, regue com a calda e sirva."
+    },
+    {
+      "id": "bolo-de-maca-com-canela",
+      "nome": "Bolo de Maçã com Canela",
+      "tempo": "1h (+2h de geladeira)",
+      "porcoes": 10,
+      "pagina": 4,
+      "ingredientes": [
+        "4 ovos",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de margarina sabor maçã",
+        "1 xícara (chá) de leite quente",
+        "3 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar",
+        "Canela em pó para polvilhar"
+      ],
+      "cobertura": [
+        "1 xícara (chá) de leite quente",
+        "1 xícara (chá) de suco de maçã",
+        "1 lata de leite condensado"
+      ],
+      "preparo": "No liquidificador, bata os ingredientes da massa e coloque em uma fôrma de buraco no meio de 22cm de diâmetro untada e enfarinhada. Leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um palito, ele saia limpo. Retire do forno e regue com os ingredientes da cobertura misturados. Leve à geladeira por 2 horas, desenforme e sirva polvilhado com canela."
+    },
+    {
+      "id": "bolo-branco",
+      "nome": "Bolo Branco",
+      "tempo": "40min",
+      "porcoes": 10,
+      "pagina": 5,
+      "ingredientes": [
+        "1 e 1/2 xícara (chá) de farinha de trigo",
+        "2 colheres (sopa) de fermento em pó",
+        "1 xícara (chá) de leite",
+        "1 xícara (chá) de açúcar",
+        "1 colher (sopa) de essência de baunilha",
+        "4 ovos",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Em uma tigela, misture a farinha, o fermento e reserve. No liquidificador, bata os demais ingredientes e misture com a farinha e o fermento. Coloque em uma fôrma de buraco no meio de 22cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 30 minutos ou até dourar. Desenforme e sirva."
+    },
+    {
+      "id": "bolo-caseiro-com-passas",
+      "nome": "Bolo Caseiro com Passas",
+      "tempo": "1h20",
+      "porcoes": 10,
+      "pagina": 5,
+      "ingredientes": [
+        "3 xícaras (chá) de farinha de trigo",
+        "4 colheres (sopa) de manteiga",
+        "2 e 1/2 xícaras (chá) de açúcar",
+        "3 ovos",
+        "1 colher (chá) de essência de baunilha",
+        "1 colher (sopa) de fermento em pó",
+        "2 xícaras (chá) de leite",
+        "1 xícara (chá) de água",
+        "1 xícara (chá) de uvas passas sem semente",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata no liquidificador os ingredientes, menos as uvas passas. Adicione as passas, misture e despeje em uma fôrma de buraco no meio untada e enfarinhada. Leve ao forno médio, preaquecido, por 50 minutos ou até dourar. Sirva."
+    },
+    {
+      "id": "bolo-de-cenoura-com-chocolate",
+      "nome": "Bolo de Cenoura com Chocolate",
+      "tempo": "1h",
+      "porcoes": 20,
+      "pagina": 5,
+      "ingredientes": [
+        "2 cenouras médias raladas",
+        "1 xícara (chá) de óleo",
+        "3 ovos",
+        "2 xícaras (chá) de açúcar",
+        "Raspas da casca de 1 limão",
+        "2 xícaras (chá) de farinha de trigo",
+        "1/2 colher (chá) de sal",
+        "2 colheres (sopa) de fermento em pó",
+        "Margarina para untar"
+      ],
+      "cobertura": [
+        "3 colheres (sopa) de açúcar",
+        "2 e 1/2 colheres (sopa) de maisena",
+        "2 xícaras (chá) de leite",
+        "4 colheres (sopa) de chocolate em pó",
+        "2 gemas"
+      ],
+      "preparo": "Bata no liquidificador a cenoura, o óleo, os ovos, o açúcar e as raspas de limão até ficar homogêneo. Acrescente a farinha, o sal, o fermento e bata para misturar. Unte uma fôrma de 40cm x 28cm, despeje a massa e leve ao forno médio, preaquecido, por 40 minutos ou até assar. Para a cobertura, em uma panela, coloque o açúcar, a maisena dissolvida no leite, o chocolate em pó, as gemas e leve ao fogo médio, mexendo até engrossar. Espalhe a cobertura sobre o bolo ainda quente, deixe esfriar e sirva em seguida."
+    },
+    {
+      "id": "bolo-de-chocolate",
+      "nome": "Bolo de Chocolate",
+      "tempo": "1h (+5min de descanso)",
+      "porcoes": 12,
+      "pagina": 6,
+      "destaque": "Receita da capa",
+      "ingredientes": [
+        "3 ovos",
+        "2 xícaras (chá) de açúcar",
+        "2 colheres (sopa) de margarina",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 xícara (chá) de chocolate em pó",
+        "1 xícara (chá) de leite",
+        "1 colher (sopa) rasa de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "calda": [
+        "1 colher (sopa) de margarina",
+        "2 xícaras (chá) de leite",
+        "1 colher (sopa) de açúcar",
+        "1 xícara (chá) de chocolate em pó"
+      ],
+      "preparo": "Bata no liquidificador os ovos, o açúcar e a margarina. Acrescente a farinha, o chocolate em pó, o leite, o fermento e bata. Despeje em uma fôrma de 24cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um palito, ele saia limpo. Retire do forno, deixe esfriar, desenforme e reserve. Em uma panela, misture os ingredientes da calda e leve ao fogo médio, mexendo até engrossar. Deixe descansar por 5 minutos, espalhe sobre o bolo e sirva."
+    },
+    {
+      "id": "bolo-caipira",
+      "nome": "Bolo Caipira",
+      "tempo": "1h",
+      "porcoes": 20,
+      "pagina": 6,
+      "ingredientes": [
+        "2 xícaras (chá) de açúcar",
+        "1 vidro de leite de coco (200ml)",
+        "2 ovos",
+        "1 lata de milho verde escorrido",
+        "1 xícara (chá) de óleo",
+        "1/2 xícara (chá) de leite",
+        "1 xícara (chá) de flocos de milho pré-cozidos tipo Milharina",
+        "1 xícara (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata no liquidificador o açúcar, o leite de coco, os ovos, o milho, o óleo, o leite e os flocos de milho até ficar homogêneo. Transfira para uma vasilha, adicione a farinha e o fermento peneirados e misture delicadamente com uma colher. Despeje em uma fôrma de buraco no meio de 30cm de diâmetro untada e enfarinhada. Leve ao forno médio, preaquecido, por 45 minutos ou até que ao enfiar um palito, ele saia limpo. Desenforme depois de frio, corte em fatias e sirva."
+    },
+    {
+      "id": "bolo-capim-santo",
+      "nome": "Bolo Capim-Santo",
+      "tempo": "1h10",
+      "porcoes": 16,
+      "pagina": 6,
+      "incompleto": "O final do preparo da cobertura continua na página seguinte, que não foi fotografada.",
+      "ingredientes": [
+        "4 talos de capim-santo",
+        "1 xícara (chá) de água",
+        "5 ovos",
+        "1/2 xícara (chá) de leite",
+        "2 colheres (sopa) de margarina",
+        "3 xícaras (chá) de açúcar",
+        "3 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "cobertura": [
+        "1 e 1/2 xícara (chá) de açúcar de confeiteiro",
+        "5 colheres (sopa) de chá de capim-santo preparado"
+      ],
+      "preparo": "Ferva os talos de capim-santo com a água, coe e reserve (deve formar um chá bem forte). Bata no liquidificador com os ovos, o leite, a margarina e o açúcar por 3 minutos. Adicione a farinha peneirada e bata até ficar homogêneo. Acrescente o fermento e misture. Unte e enfarinhe uma fôrma de buraco no meio de 24cm de diâmetro, despeje a massa e leve ao forno médio, preaquecido, por 45 minutos ou até dourar. Desenforme o bolo ainda morno. Misture os ingredientes da cobertura até obter um mingau mole e espalhe sobre o bolo. Deixe esfriar e sirva.",
+      "dica": "Você também pode utilizar folhas de erva-cidreira."
+    },
+    {
+      "id": "bolo-cha-de-maca",
+      "nome": "Bolo Chá de Maçã",
+      "tempo": "1h10",
+      "porcoes": 14,
+      "ingredientes": [
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "3 ovos",
+        "1/2 xícara (chá) de castanhas de caju",
+        "1 xícara (chá) de chá preto coado sem açúcar",
+        "2 xícaras (chá) de farinha de trigo",
+        "2 maçãs sem casca e sem sementes cortadas em cubos",
+        "1 colher (chá) de canela em pó",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata no liquidificador o açúcar, o óleo, os ovos, a castanha e o chá. Transfira para uma tigela, adicione a farinha peneirada e misture. Acrescente a maçã, a canela, o fermento e misture. Despeje em uma fôrma de buraco no meio de 24cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 40 minutos ou até que ao enfiar um palito, ele saia limpo. Desenforme depois de frio e sirva."
+    },
+    {
+      "id": "bolo-com-maca",
+      "nome": "Bolo com Maçã",
+      "tempo": "45min",
+      "porcoes": 10,
+      "pagina": 13,
+      "ingredientes": [
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "2 maçãs verdes sem sementes cortadas em cubos",
+        "1 xícara (chá) de leite",
+        "4 ovos",
+        "1 xícara (chá) de manteiga",
+        "1 xícara (chá) de açúcar",
+        "1 colher (chá) de canela em pó",
+        "Açúcar e canela em pó para polvilhar",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Em uma tigela, misture a farinha de trigo com o fermento e reserve. No liquidificador, bata as maçãs, o leite, os ovos, a manteiga, o açúcar e a canela. Misture com os ingredientes da tigela e despeje em uma fôrma de buraco no meio de 22cm de diâmetro untada e enfarinhada. Leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um palito, ele saia limpo. Retire do forno, desenforme e polvilhe com açúcar e canela em pó. Sirva.",
+      "dica": "Se desejar, acrescente uvas passas sem sementes aos ingredientes."
+    },
+    {
+      "id": "bolo-com-sorvete",
+      "nome": "Bolo com Sorvete",
+      "tempo": "1h30",
+      "porcoes": 8,
+      "pagina": 13,
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "2 xícaras (chá) de chocolate em pó",
+        "1/2 xícara (chá) de farinha de trigo",
+        "4 ovos",
+        "1 colher (chá) de fermento em pó",
+        "1 litro de sorvete do sabor de sua preferência",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata os ingredientes no liquidificador, menos o sorvete. Despeje em uma fôrma de 22cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 30 minutos ou até assar. Retire do forno e deixe esfriar. Cubra com bolas de sorvete e sirva em seguida."
+    },
+    {
+      "id": "bolo-de-mandioca",
+      "nome": "Bolo de Mandioca",
+      "tempo": "1h",
+      "porcoes": 20,
+      "pagina": 13,
+      "ingredientes": [
+        "1 xícara (chá) de suco de laranja",
+        "4 xícaras (chá) de mandioca ralada, lavada e escorrida",
+        "3 ovos",
+        "1 xícara (chá) de óleo",
+        "2 xícaras (chá) de açúcar",
+        "3 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "cobertura": [
+        "6 colheres (sopa) de leite condensado",
+        "3 colheres (sopa) de suco de laranja",
+        "Raspas de casca de laranja a gosto"
+      ],
+      "preparo": "Bata no liquidificador o suco de laranja, a mandioca, o ovo, o óleo e o açúcar até ficar homogêneo. Adicione a farinha aos poucos e bata até ficar homogêneo. Acrescente o fermento e bata para misturar. Despeje a massa em uma fôrma de buraco no meio de 30cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 40 minutos ou até dourar. Para a cobertura, em um recipiente, coloque o leite condensado, o suco de laranja, raspas e misture com uma colher. Espalhe sobre o bolo ainda quente, deixe esfriar e sirva."
+    },
+    {
+      "id": "bolo-de-milho",
+      "nome": "Bolo de Milho",
+      "tempo": "1h",
+      "porcoes": 10,
+      "pagina": 14,
+      "ingredientes": [
+        "1 xícara (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "1 lata de milho verde escorrido",
+        "1 xícara (chá) de leite",
+        "1 vidro de leite de coco (200ml)",
+        "1 xícara (chá) de açúcar",
+        "1 colher (sopa) de manteiga ou margarina",
+        "2 colheres (sopa) de queijo parmesão ralado",
+        "3 ovos",
+        "Margarina e farinha de trigo para untar",
+        "Canela em pau para decorar"
+      ],
+      "cobertura": [
+        "6 colheres (sopa) de leite de coco",
+        "3 colheres (sopa) de açúcar de confeiteiro",
+        "1/2 colher (chá) de canela em pó"
+      ],
+      "preparo": "Em uma tigela, misture a farinha com o fermento e reserve. Bata os ingredientes restantes no liquidificador, adicione a farinha e o fermento reservados e aperte a tecla pulsar do liquidificador para misturar levemente. Despeje a massa em uma fôrma de buraco no meio de 22cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 45 minutos ou até que ao enfiar um palito, ele saia limpo. Espere esfriar e desenforme. Para a cobertura, em uma panela, misture o leite de coco com o açúcar de confeiteiro e a canela em pó, mexendo até obter uma calda. Espalhe sobre o bolo, decore com canela em pau e sirva."
+    },
+    {
+      "id": "bolo-cookie-de-coco",
+      "nome": "Bolo Cookie de Coco",
+      "tempo": "1h",
+      "porcoes": 16,
+      "pagina": 14,
+      "ingredientes": [
+        "1 pacote de biscoito recheado sabor chocolate",
+        "4 ovos",
+        "1 xícara (chá) de açúcar",
+        "2 e 1/2 xícaras (chá) de farinha de trigo",
+        "1 vidro de leite de coco (200ml)",
+        "1/2 xícara (chá) de óleo",
+        "1 colher (sopa) rasa de fermento em pó",
+        "Óleo e farinha de trigo para untar"
+      ],
+      "preparo": "Triture o biscoito grosseiramente no liquidificador e reserve. Bata no liquidificador os ovos, o açúcar, a farinha, o leite de coco e o óleo até ficar homogêneo. Adicione o fermento, o biscoito e misture com uma colher. Despeje a massa em uma fôrma de bolo inglês de 27cm x 12cm untada e enfarinhada e leve ao forno médio, preaquecido, por 35 minutos ou até que ao enfiar um palito, ele saia limpo. Desenforme depois de frio, corte em fatias e sirva."
+    },
+    {
+      "id": "bolo-cowboy",
+      "nome": "Bolo Cowboy",
+      "tempo": "1h",
+      "porcoes": 16,
+      "pagina": 14,
+      "ingredientes": [
+        "2 ovos",
+        "1 e 1/2 xícara (chá) de açúcar mascavo ou branco",
+        "1 pitada de sal",
+        "2/3 de xícara (chá) de óleo",
+        "1 colher (chá) de canela em pó",
+        "2 bananas-nanicas maduras picadas",
+        "1 xícara (chá) de leite",
+        "Gengibre em pó e noz-moscada ralada a gosto",
+        "2 e 1/2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata no liquidificador os ovos, o açúcar, o sal, o óleo, a canela, as bananas, o leite, gengibre e noz-moscada até ficar homogêneo. Transfira para uma tigela e acrescente a farinha peneirada, o fermento e misture com uma colher. Despeje em uma fôrma de buraco no meio de 24cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 35 minutos ou até que ao enfiar um palito, ele saia limpo. Desenforme depois de frio e sirva."
+    },
+    {
+      "id": "bolo-cremogema",
+      "nome": "Bolo Cremogema",
+      "tempo": "1h30",
+      "porcoes": 8,
+      "pagina": 15,
+      "ingredientes": [
+        "2 colheres (sopa) de margarina",
+        "1 xícara (chá) de açúcar",
+        "4 ovos",
+        "1 vidro de leite de coco (200ml)",
+        "1 caixa de creme de arroz tipo Cremogema (250g)",
+        "1 xícara (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "No liquidificador, bata a margarina, o açúcar, os ovos, o leite de coco, a Cremogema e despeje em uma tigela. Acrescente a farinha, o fermento, misture e coloque em uma fôrma de buraco no meio de 26cm de diâmetro untada e enfarinhada. Leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um palito, ele saia limpo. Retire do forno, deixe esfriar, desenforme e, se desejar, sirva com chantilly."
+    },
+    {
+      "id": "bolo-creme",
+      "nome": "Bolo Creme",
+      "tempo": "1h (+3h de geladeira)",
+      "porcoes": 10,
+      "pagina": 15,
+      "ingredientes": [
+        "4 ovos",
+        "1 xícara (chá) de açúcar",
+        "1 xícara (chá) de chocolate em pó",
+        "1 colher (sopa) de café solúvel",
+        "2 xícaras (chá) de água fria",
+        "1/2 xícara (chá) de óleo",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "cobertura": [
+        "1 litro de leite",
+        "2 gemas",
+        "2 colheres (sopa) de açúcar",
+        "1 lata de leite condensado",
+        "3 colheres (sopa) de maisena",
+        "1 colher (sopa) de essência de baunilha",
+        "1 lata de creme de leite"
+      ],
+      "preparo": "No liquidificador, bata os ingredientes da massa. Despeje em uma fôrma redonda untada e enfarinhada e leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um palito, ele saia limpo. Em uma panela, coloque os ingredientes da cobertura, menos a essência e o creme de leite, e leve ao fogo, mexendo até engrossar. Retire do fogo e misture a essência e o creme de leite. Retire o bolo do forno, espalhe a cobertura, cubra com papel-alumínio e leve à geladeira por 3 horas. Sirva."
+    },
+    {
+      "id": "bolo-de-morango",
+      "nome": "Bolo de Morango",
+      "tempo": "1h",
+      "porcoes": 20,
+      "pagina": 15,
+      "ingredientes": [
+        "1 copo de iogurte natural (200g)",
+        "1 copo de óleo (use o copo de iogurte vazio para medir)",
+        "4 ovos",
+        "1 caixa de pó para gelatina sabor morango",
+        "1 caixa de mistura para bolo sabor morango",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata os ingredientes líquidos no liquidificador. Acrescente aos poucos a gelatina, a mistura para bolo e bata por 4 minutos ou até ficar homogêneo. Despeje em uma fôrma de buraco no meio untada e enfarinhada e leve ao forno médio, preaquecido, por 45 minutos ou até assar. Se desejar, sirva acompanhado de chantilly e morangos."
+    },
+    {
+      "id": "bolo-de-ricota-com-canela",
+      "nome": "Bolo de Ricota com Canela",
+      "tempo": "1h",
+      "porcoes": 10,
+      "pagina": 16,
+      "ingredientes": [
+        "1 colher (sopa) de margarina",
+        "2 xícaras (chá) de leite",
+        "2 xícaras (chá) de açúcar",
+        "1 xícara (chá) de farinha de trigo",
+        "1 xícara (chá) de ricota amassada",
+        "1 colher (chá) de canela em pó",
+        "3 ovos",
+        "Margarina e farinha de trigo para untar",
+        "Canela em pó para polvilhar",
+        "Canela em pau para decorar"
+      ],
+      "preparo": "Bata todos os ingredientes no liquidificador, despeje em uma fôrma de 22cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 35 minutos ou até dourar. Polvilhe com canela em pó, decore com canela em pau e sirva."
+    },
+    {
+      "id": "bolo-cremoso",
+      "nome": "Bolo Cremoso",
+      "tempo": "1h30",
+      "porcoes": 10,
+      "pagina": 16,
+      "ingredientes": [
+        "1 caixa de mistura para bolo sabor fubá",
+        "2 colheres (sopa) de manteiga",
+        "50g de queijo parmesão ralado",
+        "4 xícaras (chá) de leite",
+        "3 ovos",
+        "Margarina e farinha para untar"
+      ],
+      "preparo": "Bata os ingredientes no liquidificador e despeje em uma fôrma de 30cm de diâmetro untada e enfarinhada. Leve ao forno médio, preaquecido, por 30 minutos ou até que ao enfiar um palito, ele saia limpo. Retire do forno, deixe esfriar e sirva."
+    },
+    {
+      "id": "bolo-cremoso-de-banana",
+      "nome": "Bolo Cremoso de Banana",
+      "tempo": "1h",
+      "porcoes": 16,
+      "pagina": 16,
+      "ingredientes": [
+        "5 bananas-nanicas maduras fatiadas",
+        "4 ovos",
+        "1 e 1/2 xícara (chá) de açúcar",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (chá) de canela em pó",
+        "1/2 xícara (chá) de óleo",
+        "1 lata de creme de leite",
+        "1 colher (sopa) rasa de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Corte 3 bananas em fatias e espalhe no fundo de uma fôrma de 22cm de diâmetro untada e enfarinhada. Bata no liquidificador a banana restante, os ovos, o açúcar, a farinha, a canela, o óleo e o creme de leite até ficar homogêneo. Adicione o fermento e misture com uma colher. Despeje na fôrma e leve ao forno médio, preaquecido, por 35 minutos ou até que ao enfiar um palito, ele saia limpo. Desenforme depois de frio, corte em fatias e sirva."
+    },
+    {
+      "id": "bolo-cremoso-de-batata-doce",
+      "nome": "Bolo Cremoso de Batata-doce",
+      "tempo": "1h20",
+      "porcoes": 16,
+      "pagina": 16,
+      "ingredientes": [
+        "1kg de batata-doce cozida e amassada",
+        "1 xícara (chá) de açúcar",
+        "2/3 de xícara (chá) de farinha de trigo",
+        "3/4 de xícara (chá) de óleo",
+        "4 ovos",
+        "1 colher (chá) de essência de baunilha",
+        "1 colher (sopa) rasa de fermento em pó",
+        "Óleo e farinha de trigo para untar"
+      ],
+      "preparo": "Bata no liquidificador a batata, o açúcar, a farinha, o óleo, os ovos e a essência até ficar homogêneo. Adicione o fermento e misture com uma colher. Despeje em uma fôrma de buraco no meio de 24cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 45 minutos ou até que ao enfiar um palito, ele saia limpo. Desenforme depois de frio, corte em fatias e sirva."
+    },
+    {
+      "id": "bolo-cremoso-de-cereja-com-ricota",
+      "nome": "Bolo Cremoso de Cereja com Ricota",
+      "tempo": "1h (+15min de descanso)",
+      "porcoes": 10,
+      "pagina": 17,
+      "ingredientes": [
+        "1 e 1/2 xícara (chá) de farinha de trigo",
+        "1 xícara (chá) de aveia em flocos",
+        "1 xícara (chá) de açúcar",
+        "3/4 de xícara (chá) de margarina",
+        "1/2 xícara (chá) de creme de leite",
+        "2 ovos",
+        "1 xícara (chá) de ricota",
+        "1 xícara (chá) de geleia de cereja ou outra de sua preferência"
+      ],
+      "preparo": "Em uma vasilha, misture a farinha, a aveia e 3/4 da xícara (chá) de açúcar. Junte a margarina e misture com a ponta dos dedos até obter uma farofa. Reserve 1 xícara da mistura e misture o restante com o creme de leite e 1 ovo, mexendo até formar uma massa homogênea. Forre o fundo de uma fôrma de aro removível de 22cm de diâmetro. Reserve. Bata no liquidificador a ricota com o açúcar e o ovo restante e espalhe sobre a massa na fôrma. Espalhe a geleia e a farofa reservada. Leve ao forno médio, preaquecido, por 45 minutos ou até dourar. Deixe esfriar por 15 minutos, desenforme com cuidado e sirva."
+    },
+    {
+      "id": "bolo-cremoso-de-coco",
+      "nome": "Bolo Cremoso de Coco",
+      "tempo": "1h",
+      "porcoes": 18,
+      "pagina": 17,
+      "ingredientes": [
+        "150g de cream cheese",
+        "1 e 1/4 xícara (chá) de margarina",
+        "3 xícaras (chá) de açúcar",
+        "3/4 de xícara (chá) de coco ralado",
+        "1/2 xícara (chá) de leite de coco",
+        "6 ovos",
+        "3 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata todos os ingredientes do bolo no liquidificador, menos o fermento. Acrescente o fermento e misture com uma colher. Unte e enfarinhe uma fôrma de buraco no meio de 24cm de diâmetro e despeje a massa. Leve ao forno médio, preaquecido, por 40 minutos ou até crescer e dourar. Se enfiar um palito, sairá com pequenos farelos de massa grudada, pois é um bolo cremoso. Desenforme ainda morno e sirva."
+    },
+    {
+      "id": "bolo-formigueiro",
+      "nome": "Bolo Formigueiro",
+      "tempo": "50min",
+      "porcoes": 12,
+      "pagina": 17,
+      "ingredientes": [
+        "4 ovos",
+        "2 xícaras (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "1/2 xícara (chá) de leite",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "1 xícara (chá) de chocolate granulado",
+        "Margarina e farinha de trigo para untar"
+      ],
+      "preparo": "Bata no liquidificador os ovos, o açúcar, o óleo e o leite. Adicione a farinha aos poucos, o fermento e bata até ficar homogêneo. Despeje em uma vasilha, adicione o chocolate granulado e misture com uma colher. Despeje em uma fôrma de buraco no meio de 22cm de diâmetro untada e enfarinhada e leve ao forno médio, preaquecido, por 40 minutos ou até assar. Sirva."
+    }
+  ]
+};

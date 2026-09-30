@@ -1,0 +1,22 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../assets/css/style.css"></head><body>
+<div id="header"></div><main id="app"></main><div id="footer"></div>
+<script src="../assets/js/receitas-data.js"></script>
+<script src="../assets/js/common.js"></script>
+<script src="../assets/js/receita.js"></script>
+<script>
+setTimeout(function(){
+  var lim = document.documentElement.clientWidth, saida = [];
+  saida.push('viewport=' + lim + ' scrollWidth=' + document.documentElement.scrollWidth);
+  document.querySelectorAll('*').forEach(function(el){
+    if (el.closest('svg')) return;           // coordenadas internas de SVG não contam
+    var r = el.getBoundingClientRect();
+    if (r.right > lim + 1) {
+      saida.push(Math.round(r.left) + '..' + Math.round(r.right) + '  ' +
+        el.tagName.toLowerCase() + (el.className && typeof el.className === 'string' ? '.' + el.className.trim().split(/\s+/).join('.') : ''));
+    }
+  });
+  document.body.textContent = saida.slice(0, 40).join('\n');
+}, 700);
+</script></body></html>
